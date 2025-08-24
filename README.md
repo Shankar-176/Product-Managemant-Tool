@@ -52,6 +52,8 @@ Product Delivery/
 git clone <repository-url>
 cd Product Delivery
 
+----
+
 2. Install Dependencies
 npm install
 
@@ -64,6 +66,7 @@ npm run build
 5. Preview Production Build
 npm run preview
 
+----
 
 📜 Available Scripts
 
@@ -74,6 +77,9 @@ npm run build – Build the project
 npm run preview – Preview production build
 
 npm run lint – Run ESLint checks
+
+
+----
 
 🤝 Contributing
 
@@ -88,6 +94,9 @@ Commit your changes (git commit -m 'Add AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
+
+
+----
 
 📄 License
 
